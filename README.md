@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Caroline Oliveira</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate programmer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carol42" alt="carol42" /> </p>
 
-- 🔭 I’m currently working on [DiverStudy](https://diver-study.vercel.app)
+- 🔭 I’m currently studying Computer Engineering at UEPG
 
-- 🌱 I’m currently learning **React.js**
+- 👨‍💻 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://youthful-thompson-42ebec.netlify.app/](https://youthful-thompson-42ebec.netlify.app/)
+-  📫 How to reach me [beacons.page/carol_helo](https://beacons.page/carol_helo)
 
-- 📫 How to reach me **caroline.heliose@gmail.com**
-
-- ⚡ Fun fact **I love cats and cactus 😻🌵**
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
