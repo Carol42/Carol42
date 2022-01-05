@@ -28,5 +28,7 @@
 <!-- lastfm -->
 <p align="center"></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg)
