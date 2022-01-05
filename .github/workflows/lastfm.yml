@@ -1,0 +1,32 @@
+name: lastfm-to-markdown
+
+on:
+  schedule:
+    - cron: '2 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  lastfm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: lastfm to markdown
+        uses: melipass/lastfm-to-markdown@v1.3
+        with:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+
+      - name: commit changes
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated last.fm's weekly chart" -a
+
+      - name: push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}\
+          branch: main
