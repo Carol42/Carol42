@@ -26,7 +26,7 @@
 </p>
 
 <!-- lastfm -->
-
+<p align="center"></p>
 
 
 ![Snake animation](https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg)
