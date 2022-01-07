@@ -2,7 +2,7 @@
 <div align="center" ><img alt="welcome to my profile!" src="./assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=410&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <h4 align="center"><a href="./README-pt-br.md">:brazil: Acessar a versão em Português »</a></h4>
@@ -43,11 +43,14 @@
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
+<code> <img alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 <code><img alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img alt="yarn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code> <img alt="heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 <code><img alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
@@ -83,7 +86,7 @@
 <h2>:octocat: My GitHub Stats</h2>
 
 <details>
-<summary>See my stats</summary>
+<summary>General Stats</summary>
 <div>
     <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
     <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
@@ -94,22 +97,45 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
+</div>
+</details>
+<details>
+    <summary>Recent activity</summary>
+    <!--START_SECTION:activity-->
+
+
+
+
+
+    <!--END_SECTION:activity-->
+</details>
+<details>
+<summary>Top language</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*" alt="most used languages" />
     </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+<details>
+<summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
-    </br>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</div>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
-</a>
-
+</details>
+<details>
+<summary>Contribuition Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
+</details>
+<details>
+<summary>Trophies</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
+</a>
+</details>
+<details>
+<summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
