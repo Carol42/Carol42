@@ -67,7 +67,7 @@
 
 
 <!-- lastfm -->
-
+<p align="center"></p>
 
 <details>
     <summary>Songs I've listened to recently</summary>
