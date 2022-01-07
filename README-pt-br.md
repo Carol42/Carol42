@@ -78,7 +78,12 @@
 </br></br>
 
 <h2>:octocat: Minhas estatísticas no GitHub</h2>
-
+<div>
+    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
+</div>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="my github stats" />
