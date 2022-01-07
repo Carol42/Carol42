@@ -6,7 +6,6 @@
 </div>
 
 <h4 align="center"><a href="./READMEpt-br.md">:brazil: Acessar a versão em Português »</a></h4>
-</br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
