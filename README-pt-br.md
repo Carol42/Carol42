@@ -1,5 +1,5 @@
 <div id="top"></div>
-<h1 align="center" > Olá! <img width="40px" src="./assets/hi.gif" alt="waving hand"> Bem vindo / Bem vinda ao meu perfil!</h1>
+<div align="center" ><img alt="bem-vindo/a ao meu perfil!" src="./assets/header2.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
@@ -33,35 +33,35 @@
 </br>
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
-<code><img alt="html5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img alt="javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img alt="python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img alt="css 3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img alt="linguagem c" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img alt="react js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img alt="node js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img alt="linguagem c" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Ferramentas que eu uso</h2>
-<code><img alt="ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img alt="git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
-<code><img alt="mozilla firefox" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img alt="visual studio code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img alt="microsoft windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img alt="github" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img alt="GNU Image Manipulation Program - GIMP" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-<code><img alt="linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
+<code><img alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
 
 <h2>:books: Meu Portfólio Pessoal</h2>
 <a href="https://github.com/Carol42/portfolio">
     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
-</br></br>
+</br>
 <a href="https://portfolio-carol42.vercel.app/">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
-</br></br></br>
+</br></br>
 
 <h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>
 <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
@@ -122,3 +122,4 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
+<div align="center" ><img alt="" src="./assets/footer.png"></div>
