@@ -67,7 +67,6 @@
 
 
 <!-- lastfm -->
-<p align="center"></p>
 
 
 <details>
