@@ -1,11 +1,11 @@
 <div id="top"></div>
-<h1 align="center" > Hi! <img width="40px" src="./hi.gif" alt="waving hand"> Welcome to my profile!</h1>
+<h1 align="center" > Hi! <img width="40px" src="./assets/hi.gif" alt="waving hand"> Welcome to my profile!</h1>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=410&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<p align="center"><a href="./Carol42-ptbr.md">:brazil: Acessar a versão em Português »</a></p>
+<h4 align="center"><a href="./READMEpt-br.md">:brazil: Acessar a versão em Português »</a></h4>
 </br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -64,7 +64,7 @@
 </a>
 </br></br></br>
 
-<h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>>
+<h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
 
 
 <!-- lastfm -->
@@ -78,17 +78,22 @@
     </a>
 </details>
 </br></br>
-## :octocat: My GitHub Stats
-
+<h2>:octocat: My GitHub Stats</h2>
+<div>
+    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+</div>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*" alt="most used languages" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
     </br>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
