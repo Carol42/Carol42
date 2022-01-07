@@ -1,11 +1,11 @@
 <div id="top"></div>
-<h1 align="center" > Olá! <img width="40px" src="./assets/hi.gif" alt="waving hand"> Bem vindo/ Bem vinda ao meu perfil!</h1>
+<h1 align="center" > Olá! <img width="40px" src="./assets/hi.gif" alt="waving hand"> Bem vindo / Bem vinda ao meu perfil!</h1>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<h4 align="center"><a href="./README.md">:us:gb: Go to the English version »</a></h4>
+<h4 align="center"><a href="./README.md">:us::gb: Go to the English version »</a></h4>
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
@@ -59,7 +59,7 @@
 </a>
 </br></br>
 <a href="https://portfolio-carol42.vercel.app/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfólio&color=7E3ACE&style=for-the-badge" />
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br></br>
 
@@ -97,7 +97,7 @@
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&theme=material-palenight&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&theme=material-palenight&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes">
 </a>
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
