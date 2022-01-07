@@ -71,7 +71,7 @@
 
 
 <details>
-    <summary>Músicas que eu ouvi recentemente</summary>
+    <summary>Ver as últimas 10 músicas que eu ouvi</summary>
     <a href="https://github.com/JeffreyCA/lastfm-recently-played-readme">
         <img alt="10 last songs I've listened to" src="https://lastfm-recently-played.vercel.app/api?user=carol-helo&count=10&width=490">
     </a>
@@ -80,7 +80,7 @@
 
 <h2>:octocat: Minhas estatísticas no GitHub</h2>
 <details>
-<summary>Ver mais</summary>
+<summary>Ver minhas estatísticas</summary>
 <div>
     <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
     <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
