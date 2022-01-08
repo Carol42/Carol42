@@ -69,9 +69,7 @@
 <h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>
 <img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
 
-<!-- lastfm -->
-
-
+<p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são Symphonic e Power Metal. E minha banda favorita é Blind Guardian.</</p>
 
 <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
@@ -83,33 +81,48 @@
 
 <h2>:octocat: Minhas estatísticas no GitHub</h2>
 <details>
-<summary>Ver minhas estatísticas</summary>
+<summary>Estatísticas gerais</summary>
 <div>
     <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
     <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
     <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
     <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
 </div>
+
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="my github stats" />
     </a>
+</details>
+<details>
+<summary>Contribuições em sequência</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="streak stats"/>
     </a>
+</details>
+<details>
+<summary>Linguagens mais usadas</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br" alt="most used languages" />
     </a>
     </br>
     <p><b>*Nota:</b> 'Linguagens mais usadas' é somente uma métrica das linguagens utilizadas nos meus códigos públicos e não reflete em experiência ou nível de conhecimento.</p>
 </div>
+</details>
+<details>
+<summary>Gráfico de Contribuições</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
+</details>
+<details>
+<summary>Conquistas</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=discord&no-frame=true&column=7">
 </a>
-
+</details>
+<details>
+<summary>Visitas no perfil</summary>
 <p align="center">:round_pushpin: Visitas no perfil</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
