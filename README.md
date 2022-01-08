@@ -76,6 +76,7 @@
 
 
 
+<p>:zap: <b>Fun fact:</b> I love music! It gives me the energy I need every day. My favorite musical genres are Symphonic and Power Metal. And my favorite band is Blind Guardian.</p>
 <details>
     <summary>See the 10 last songs I've listened to</summary>
     <a href="https://github.com/JeffreyCA/lastfm-recently-played-readme">
@@ -83,6 +84,21 @@
     </a>
 </details>
 </br></br>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 <h2>:octocat: My GitHub Stats</h2>
 
 <details>
@@ -101,13 +117,13 @@
 </details>
 <details>
     <summary>Recent activity</summary>
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 
 
 
 
-    <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 <details>
 <summary>Top language</summary>
