@@ -126,12 +126,7 @@
 4. 💪 Opened PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
 5. 🎉 Merged PR [#2](https://github.com/Carol42/Carol42/pull/2) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
 <!--END_SECTION:activity-->
-
-
-
-
-
-</details>
+    
 <details>
 <summary>Top language</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
