@@ -67,9 +67,10 @@
 </br></br>
 
 <h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>
-<img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
 
 <p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> e <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. E minha banda favorita é <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</</p>
+    
+<img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
 
 <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
