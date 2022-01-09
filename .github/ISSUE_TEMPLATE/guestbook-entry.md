@@ -1,6 +1,6 @@
 ---
-name: Guestbook entry
-about: Send a cool message to me!
+name: :book: Guestbook entry
+about: Send a cool message to me!:memo:
 title: ''
 labels: ''
 assignees: ''
