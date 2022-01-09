@@ -5,7 +5,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<h4 align="center"><a href="./README-pt-br.md">:brazil: Acessar a versão em Português »</a></h4>
+<table align="right">
+ <tr><td><a href="README.md">:us: English</a></td></tr>
+ <tr><td><a href="README-pt-br.md">:brazil: Português</a></td></tr>
+</table>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
@@ -88,7 +91,7 @@
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
 <h2>:thought_balloon: Quote of the day</h2>
-<details>
+<details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
