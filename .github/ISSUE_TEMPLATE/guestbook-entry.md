@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-*I've found your profile through:*
+**I've found your profile through:**
 <!-- Let me know how you found me -->
 
-*Message:*
+**Message:**
 <!-- Write your message here -->
