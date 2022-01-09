@@ -72,7 +72,7 @@
 </a>
 
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc9bdb619dec45deb3c8d78e8018e06b.jpg" title="Avantasia - The Metal Opera, Pt. I"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/892f95125a0047e7a2a1260529d8770e.jpg" title="Blind Guardian - Nightfall in Middle Earth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/35c70cdff2f74b9a877dfea2ea8314e7.png" title="Avantasia - The Scarecrow"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1702cf82ed6641ce96fdf7c508073e0e.jpg" title="Avantasia - The Metal Opera, Pt. 2"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4218cfb374324083acd08f6b9f5e5c78.png" title="Avantasia - The Mystery of Time"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ff9d06c624a64c774d3f9972bc05b9c2.png" title="Rhapsody - Dawn of Victory"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e121b2c611df7b054a7966e77be10a32.png" title="Avantasia - Angel of Babylon"> </p>
 
 
 
