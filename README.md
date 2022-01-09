@@ -102,7 +102,6 @@
     </a>
 </details>
 <h2>:octocat: My GitHub Stats</h2>
-
 <details>
 <summary>General Stats</summary>
 <div>
@@ -117,16 +116,6 @@
     </a>
 </div>
 </details>
-<details>
-    <summary>Recent activity</summary>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/DenverCoder1/readme-typing-svg/pull/78) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. ❗️ Opened issue [#1853](https://github.com/JessicaLim8/JessicaLim8/issues/1853) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. 🎉 Merged PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. 💪 Opened PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-5. 🎉 Merged PR [#2](https://github.com/Carol42/Carol42/pull/2) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-<!--END_SECTION:activity-->
-    
 <details>
 <summary>Top language</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -159,6 +148,15 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
 </div>
 </details>
+<h4>Recent activity</h4>
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#78](https://github.com/DenverCoder1/readme-typing-svg/pull/78) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. ❗️ Opened issue [#1853](https://github.com/JessicaLim8/JessicaLim8/issues/1853) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+3. 🎉 Merged PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+4. 💪 Opened PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+5. 🎉 Merged PR [#2](https://github.com/Carol42/Carol42/pull/2) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+<!--END_SECTION:activity-->
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
