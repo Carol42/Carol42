@@ -5,8 +5,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<h4 align="center"><a href="./README.md">:us::gb: Go to the English version »</a></h4>
-
+<table align="right">
+ <tr><td><a href="README.md">:us: English</a></td></tr>
+ <tr><td><a href="README-pt-br.md">:brazil: Português</a></td></tr>
+</table>
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
@@ -129,6 +131,9 @@
 </div>
 </details>
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Livro de Visitas</h2>
+<p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/Carol42/Carol42/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
