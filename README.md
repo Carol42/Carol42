@@ -154,11 +154,11 @@
 <h4>Recent activity</h4>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/DenverCoder1/readme-typing-svg/pull/78) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. ❗️ Opened issue [#1853](https://github.com/JessicaLim8/JessicaLim8/issues/1853) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. 🎉 Merged PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. 💪 Opened PR [#3](https://github.com/Carol42/Carol42/pull/3) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-5. 🎉 Merged PR [#2](https://github.com/Carol42/Carol42/pull/2) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+1. ❗️ Opened issue [#4777](https://github.com/JonathanGin52/JonathanGin52/issues/4777) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#4776](https://github.com/JonathanGin52/JonathanGin52/issues/4776) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#1217](https://github.com/benjaminsampica/benjaminsampica/issues/1217) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#1216](https://github.com/benjaminsampica/benjaminsampica/issues/1216) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#600](https://github.com/evaristocuesta/evaristocuesta/issues/600) in [evaristocuesta/evaristocuesta](https://github.com/evaristocuesta/evaristocuesta)
 <!--END_SECTION:activity-->
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
