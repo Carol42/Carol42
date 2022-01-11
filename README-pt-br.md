@@ -10,6 +10,27 @@
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
+<h2>:woman_technologist: Sobre mim</h2>
+
+```js
+console.log("Olá mundo!");
+const Carol42 = {
+    pronomes: "ela" | "dela",
+    país: "Brasil",
+    idade: 20,
+    idiomas: ["Português", "Inglês", "Espanhol"],
+    metasDeAnoNovo: ["aprimorar minhas habilidades em programação", "aprender francês", "conseguir um estágio"],
+    meusFavoritos: {
+        bandaDeRock: "Pink Floyd",
+        bandaDeMetal: "Blind Guardian",
+        filmes: "The Matrix",
+        anime: "Attack on Titan",
+        livros: "O Guia do Mochileiro das Galáxias",
+        series: ["Black Mirror", "Sherlock"]
+    }
+}
+```
+
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
@@ -32,8 +53,6 @@
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
-
-</br>
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
