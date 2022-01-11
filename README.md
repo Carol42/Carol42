@@ -10,6 +10,27 @@
  <tr><td><a href="README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
+<h2>:woman_technologist: About me</h2>
+
+```js
+console.log("Hello world!");
+const Carol42 = {
+    pronouns: "she" | "her",
+    country: "Brazil",
+    age: 20,
+    spokenLanguages: ["Portuguese", "English", "Spanish"],
+    newYearGoals: ["sharpen my skills in programming", "learning French", "get a job"],
+    myFavorites: {
+        rockBand: "Pink Floyd",
+        metalBand: "Blind Guardian",
+        movies: "The Matrix",
+        anime: "Attack on Titan",
+        books: "The Hitchhiker's Guide to the Galaxy",
+        tvSeries: ["Black Mirror", "Sherlock"]
+    }
+}
+```
+
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
@@ -71,7 +92,9 @@
 
 <h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
 
+<!--
 <p>:zap: <b>Fun fact:</b> I love music! It gives me the energy I need every day. My favorite musical genres are <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> and <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. And my favorite band is <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</p>
+-->
 <!--
 <details>
     <summary>See the 10 last songs I've listened to</summary>
@@ -133,7 +156,7 @@
     </a>
 </details>
 <details>
-<summary>Contribuition Graph</summary>
+<summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
