@@ -22,7 +22,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Updated last.fm's weekly chart" -a
+          git commit -m ":notes: Updated last.fm's weekly chart" -a
 
       - name: push changes
         continue-on-error: true
