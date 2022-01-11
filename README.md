@@ -1,13 +1,13 @@
 <div id="top"></div>
-<div align="center" ><img alt="welcome to my profile!" src="./assets/header.png"></div>
+<div align="center" ><img alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <table align="right">
- <tr><td><a href="README.md">:us: English</a></td></tr>
- <tr><td><a href="README-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
 <h2>:woman_technologist: About me</h2>
@@ -196,4 +196,4 @@ const Carol42 = {
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" src="./assets/footer.png"></div>
+<div align="center" ><img alt="" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
