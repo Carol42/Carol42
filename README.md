@@ -143,6 +143,18 @@ const Carol42 = {
 </div>
 </details>
 <details>
+ <summary>Recent activity</summary>
+    
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4810](https://github.com/JonathanGin52/JonathanGin52/issues/4810) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#4809](https://github.com/JonathanGin52/JonathanGin52/issues/4809) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. 🎉 Merged PR [#5](https://github.com/Carol42/Carol42/pull/5) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+4. 💪 Opened PR [#5](https://github.com/Carol42/Carol42/pull/5) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+5. ❗️ Opened issue [#4808](https://github.com/JonathanGin52/JonathanGin52/issues/4808) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+<!--END_SECTION:activity-->
+
+</details>
+<details>
 <summary>Top language</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*" alt="most used languages" />
@@ -174,15 +186,6 @@ const Carol42 = {
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
 </div>
 </details>
-<h4>Recent activity</h4>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4810](https://github.com/JonathanGin52/JonathanGin52/issues/4810) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#4809](https://github.com/JonathanGin52/JonathanGin52/issues/4809) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. 🎉 Merged PR [#5](https://github.com/Carol42/Carol42/pull/5) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. 💪 Opened PR [#5](https://github.com/Carol42/Carol42/pull/5) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-5. ❗️ Opened issue [#4808](https://github.com/JonathanGin52/JonathanGin52/issues/4808) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-<!--END_SECTION:activity-->
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
