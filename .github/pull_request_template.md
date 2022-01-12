@@ -1,7 +1,7 @@
 ## Username
 <!-- your username here -->
 
-## Changes made
+## Proposed changes
 <!-- describe the changes made by you -->
 
 ## Issue number (if any)
