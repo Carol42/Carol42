@@ -147,11 +147,11 @@ const Carol42 = {
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/elangosundar/awesome-README-templates/pull/57) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
-2. 💪 Opened PR [#384](https://github.com/coderjojo/creative-profile-readme/pull/384) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-3. 💪 Opened PR [#169](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/pull/169) in [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-4. ❗️ Opened issue [#4810](https://github.com/JonathanGin52/JonathanGin52/issues/4810) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#4809](https://github.com/JonathanGin52/JonathanGin52/issues/4809) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#6](https://github.com/Carol42/Carol42/pull/6) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+2. 💪 Opened PR [#6](https://github.com/Carol42/Carol42/pull/6) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+3. 💪 Opened PR [#126](https://github.com/victorakaps/Profile.md/pull/126) in [victorakaps/Profile.md](https://github.com/victorakaps/Profile.md)
+4. 💪 Opened PR [#57](https://github.com/elangosundar/awesome-README-templates/pull/57) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+5. 💪 Opened PR [#384](https://github.com/coderjojo/creative-profile-readme/pull/384) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
