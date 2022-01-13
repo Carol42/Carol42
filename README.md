@@ -147,11 +147,11 @@ const Carol42 = {
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Carol42/portfolio/pull/2) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
-2. 💪 Opened PR [#2](https://github.com/Carol42/portfolio/pull/2) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
-3. 🎉 Merged PR [#6](https://github.com/Carol42/Carol42/pull/6) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. 💪 Opened PR [#6](https://github.com/Carol42/Carol42/pull/6) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-5. 💪 Opened PR [#126](https://github.com/victorakaps/Profile.md/pull/126) in [victorakaps/Profile.md](https://github.com/victorakaps/Profile.md)
+1. 🎉 Merged PR [#14](https://github.com/Carol42/Disnil/pull/14) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+2. 🎉 Merged PR [#13](https://github.com/Carol42/DiverStudy/pull/13) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
+3. 🎉 Merged PR [#14](https://github.com/Carol42/DiverStudy/pull/14) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
+4. 🎉 Merged PR [#13](https://github.com/Carol42/Disnil/pull/13) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+5. 🎉 Merged PR [#9](https://github.com/Carol42/Disnil/pull/9) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
 <!--END_SECTION:activity-->
 
 </details>
