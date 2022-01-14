@@ -11,7 +11,8 @@
 </table>
 
 <h2>:woman_technologist: About me</h2>
-
+<img width="70%" alt="about me" src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
+<!--
 ```js
 console.log("Hello world!");
 const Carol42 = {
@@ -30,7 +31,7 @@ const Carol42 = {
     }
 }
 ```
-
+-->
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
