@@ -11,7 +11,7 @@
 </table>
 
 <h2>:woman_technologist: About me</h2>
-<img width="70%" alt="about me" src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
+<img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
 <!--
 ```js
 console.log("Hello world!");
