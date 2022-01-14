@@ -148,11 +148,11 @@ const Carol42 = {
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Carol42/Disnil/pull/14) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-2. 🎉 Merged PR [#13](https://github.com/Carol42/DiverStudy/pull/13) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
-3. 🎉 Merged PR [#14](https://github.com/Carol42/DiverStudy/pull/14) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
-4. 🎉 Merged PR [#13](https://github.com/Carol42/Disnil/pull/13) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-5. 🎉 Merged PR [#9](https://github.com/Carol42/Disnil/pull/9) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+1. ❗️ Opened issue [#4871](https://github.com/JonathanGin52/JonathanGin52/issues/4871) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#4870](https://github.com/JonathanGin52/JonathanGin52/issues/4870) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#4869](https://github.com/JonathanGin52/JonathanGin52/issues/4869) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#4868](https://github.com/JonathanGin52/JonathanGin52/issues/4868) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#4867](https://github.com/JonathanGin52/JonathanGin52/issues/4867) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
