@@ -2,7 +2,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
 </div>
 
 <table align="right">
@@ -11,7 +11,8 @@
 </table>
 
 <h2>:woman_technologist: Sobre mim</h2>
-
+<img alt="Olá mundo! Pronomes: ela/dela; país: Brasil; idade: 20; idiomas: Português, Inglês e Espanhol; metas de ano novo: aprimorar minhas habilidades em programação, aprender francês, conseguir um estágio; meus favoritos: banda de rock: Pink Floyd; banda de metal: Blind Guradian; filmes: The Matrix; anime: Attack on Titan; livros: O Guia do Mochileiro das Galáxias; séries: Black Mirror e Sherlock." width="70%" src="https://github.com/Carol42/Carol42/blob/main/assets/sobre-mim.png">
+<!--
 ```js
 console.log("Olá mundo!");
 const Carol42 = {
@@ -30,28 +31,28 @@ const Carol42 = {
     }
 }
 ```
-
+-->
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
 </a>
 <a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+    <img alt="link para o meu CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
 </a>
 <a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+    <img alt="Link para o meu Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
 </a>
 <a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
 </a>
 <a href="https://t.me/carol_helo">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+    <img alt="link para o meu Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/carol_helloo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link para o meu Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
@@ -80,24 +81,24 @@ const Carol42 = {
 
 <h2>:books: Meu Portfólio Pessoal</h2>
 <a href="https://github.com/Carol42/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+    <img alt="link para o repositrório do meu portfolio pessoal" src="https://github-readme-stats.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
 </br>
 <a href="https://portfolio-carol42.vercel.app/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
+    <img alt="link para o meu portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>
 
-<h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>
+<h2>:notes: Música <a href="https://www.last.fm/user/carol-helo"><img alt="última música que ouvi" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Última+música+que+ouvi"></a></h2>
 
 <p>:zap: <b>Fato sobre mim:</b> Eu amo música! É o que me dá a energia que preciso todos os dias. Meus gêneros musicais favoritos são <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> e <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. E minha banda favorita é <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</</p>
 </br>
-<img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
+<img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed">
 
 <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
     <a href="https://github.com/JeffreyCA/lastfm-recently-played-readme">
-        <img alt="10 last songs I've listened to" src="https://lastfm-recently-played.vercel.app/api?user=carol-helo&count=10&width=490">
+        <img alt="10 últimas músicas que ouvi" src="https://lastfm-recently-played.vercel.app/api?user=carol-helo&count=10&width=490">
     </a>
 </details>
 
@@ -105,15 +106,15 @@ const Carol42 = {
 <details>
 <summary>Estatísticas gerais</summary>
 <div>
-    <img alt="github repos" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits today" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
-    <img alt="commits this week" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
-    <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
+    <img alt="quantidade de repositórios" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits de hoje" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
+    <img alt="commits desta semana" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
+    <img alt="commits deste mês" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
 </div>
 
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="my github stats" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="minhas estatísticas" />
     </a>
 </details>
 <details>
@@ -125,7 +126,7 @@ const Carol42 = {
 <details>
 <summary>Linguagens mais usadas</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br" alt="gráfico de linguagens mais usadas" />
     </a>
     </br>
     <p><b>*Nota:</b> 'Linguagens mais usadas' é somente uma métrica das linguagens utilizadas nos meus códigos públicos e não reflete em experiência ou nível de conhecimento.</p>
@@ -134,23 +135,23 @@ const Carol42 = {
 <details>
 <summary>Gráfico de Contribuições</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="gráfico de atividades no GitHub" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
 <summary>Conquistas</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=discord&no-frame=true&column=7">
+    <img alt="conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=discord&no-frame=true&column=7">
 </a>
 </details>
 <details>
 <summary>Visitas no perfil</summary>
 <p align="center">:round_pushpin: Visitas no perfil</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    <img alt="contador de visitas" src="https://profile-counter.glitch.me/Carol42/count.svg">
 </div>
 </details>
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<img alt="animação da cobrinha nas contribuições do GitHub" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/Carol42/Carol42/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
