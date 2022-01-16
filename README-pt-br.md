@@ -12,26 +12,7 @@
 
 <h2>:woman_technologist: Sobre mim</h2>
 <img alt="Olá mundo! Pronomes: ela/dela; país: Brasil; idade: 20; idiomas: Português, Inglês e Espanhol; metas de ano novo: aprimorar minhas habilidades em programação, aprender francês, conseguir um estágio; meus favoritos: banda de rock: Pink Floyd; banda de metal: Blind Guradian; filmes: The Matrix; anime: Attack on Titan; livros: O Guia do Mochileiro das Galáxias; séries: Black Mirror e Sherlock." width="70%" src="https://github.com/Carol42/Carol42/blob/main/assets/sobre-mim.png">
-<!--
-```js
-console.log("Olá mundo!");
-const Carol42 = {
-    pronomes: "ela" | "dela",
-    país: "Brasil",
-    idade: 20,
-    idiomas: ["Português", "Inglês", "Espanhol"],
-    metasDeAnoNovo: ["aprimorar minhas habilidades em programação", "aprender francês", "conseguir um estágio"],
-    meusFavoritos: {
-        bandaDeRock: "Pink Floyd",
-        bandaDeMetal: "Blind Guardian",
-        filmes: "The Matrix",
-        anime: "Attack on Titan",
-        livros: "O Guia do Mochileiro das Galáxias",
-        series: ["Black Mirror", "Sherlock"]
-    }
-}
-```
--->
+
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
