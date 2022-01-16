@@ -12,26 +12,7 @@
 
 <h2>:woman_technologist: About me</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
-<!--
-```js
-console.log("Hello world!");
-const Carol42 = {
-    pronouns: "she" | "her",
-    country: "Brazil",
-    age: 20,
-    spokenLanguages: ["Portuguese", "English", "Spanish"],
-    newYearGoals: ["sharpen my skills in programming", "learning French", "get a job"],
-    myFavorites: {
-        rockBand: "Pink Floyd",
-        metalBand: "Blind Guardian",
-        movies: "The Matrix",
-        anime: "Attack on Titan",
-        books: "The Hitchhiker's Guide to the Galaxy",
-        tvSeries: ["Black Mirror", "Sherlock"]
-    }
-}
-```
--->
+
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
@@ -54,7 +35,6 @@ const Carol42 = {
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
-
 </br>
 
 <h2>:bulb: Languages & Frameworks</h2>
@@ -93,20 +73,6 @@ const Carol42 = {
 </br></br>
 
 <h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
-
-<!--
-<p>:zap: <b>Fun fact:</b> I love music! It gives me the energy I need every day. My favorite musical genres are <a href="https://www.last.fm/tag/symphonic+metal">Symphonic</a> and <a href="https://www.last.fm/tag/power+metal">Power</a> Metal. And my favorite band is <a href="https://www.last.fm/music/Blind+Guardian">Blind Guardian</a>.</p>
--->
-<!--
-<details>
-    <summary>See the 10 last songs I've listened to</summary>
-    <a href="https://github.com/JeffreyCA/lastfm-recently-played-readme">
-        <img alt="10 last songs I've listened to" src="https://lastfm-recently-played.vercel.app/api?user=carol-helo&count=10&width=490">
-    </a>
-</details>
--->
-
-<!--<a href="https://github.com/rafaelwi/github-readme-lastfm-stats"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=carol-helo&theme=dimmed"></a>-->
 
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
