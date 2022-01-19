@@ -142,7 +142,7 @@
 </a>
 </details>
 <details>
-<summary>Trophies</summary>
+<summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
 </a>
