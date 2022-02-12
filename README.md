@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4920](https://github.com/JonathanGin52/JonathanGin52/issues/4920) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#4919](https://github.com/JonathanGin52/JonathanGin52/issues/4919) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#4908](https://github.com/JonathanGin52/JonathanGin52/issues/4908) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#4907](https://github.com/JonathanGin52/JonathanGin52/issues/4907) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#4902](https://github.com/JonathanGin52/JonathanGin52/issues/4902) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#1](https://github.com/Carol42/bootcamp-dio-gft-start-java/pull/1) in [Carol42/bootcamp-dio-gft-start-java](https://github.com/Carol42/bootcamp-dio-gft-start-java)
+2. 💪 Opened PR [#1](https://github.com/Carol42/bootcamp-dio-gft-start-java/pull/1) in [Carol42/bootcamp-dio-gft-start-java](https://github.com/Carol42/bootcamp-dio-gft-start-java)
+3. ❗️ Opened issue [#4920](https://github.com/JonathanGin52/JonathanGin52/issues/4920) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#4919](https://github.com/JonathanGin52/JonathanGin52/issues/4919) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#4908](https://github.com/JonathanGin52/JonathanGin52/issues/4908) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
