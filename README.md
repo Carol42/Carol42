@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Carol42/bootcamp-dio-gft-start-java/pull/1) in [Carol42/bootcamp-dio-gft-start-java](https://github.com/Carol42/bootcamp-dio-gft-start-java)
-2. 💪 Opened PR [#1](https://github.com/Carol42/bootcamp-dio-gft-start-java/pull/1) in [Carol42/bootcamp-dio-gft-start-java](https://github.com/Carol42/bootcamp-dio-gft-start-java)
-3. ❗️ Opened issue [#4920](https://github.com/JonathanGin52/JonathanGin52/issues/4920) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#4919](https://github.com/JonathanGin52/JonathanGin52/issues/4919) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#4908](https://github.com/JonathanGin52/JonathanGin52/issues/4908) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#5](https://github.com/Carol42/portfolio/pull/5) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+2. 🎉 Merged PR [#16](https://github.com/Carol42/DiverStudy/pull/16) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
+3. 🎉 Merged PR [#4](https://github.com/Carol42/portfolio/pull/4) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+4. 🎉 Merged PR [#15](https://github.com/Carol42/DiverStudy/pull/15) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
+5. 🎉 Merged PR [#3](https://github.com/Carol42/portfolio/pull/3) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
