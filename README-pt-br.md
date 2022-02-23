@@ -108,7 +108,7 @@
 <details>
 <summary>Linguagens mais usadas</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br" alt="gráfico de linguagens mais usadas" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br&langs_count=8" alt="gráfico de linguagens mais usadas" />
     </a>
     </br>
     <p><b>*Nota:</b> 'Linguagens mais usadas' é somente uma métrica das linguagens utilizadas nos meus códigos públicos e não reflete em experiência ou nível de conhecimento.</p>
