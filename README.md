@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Carol42/Disnil/pull/16) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-2. 🎉 Merged PR [#17](https://github.com/Carol42/Disnil/pull/17) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-3. ❗️ Opened issue [#79](https://github.com/bloedboemmel/bloedboemmel/issues/79) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
-4. ❗️ Opened issue [#5100](https://github.com/JonathanGin52/JonathanGin52/issues/5100) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#1398](https://github.com/marcizhu/marcizhu/issues/1398) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+1. 🎉 Merged PR [#6](https://github.com/Carol42/portfolio/pull/6) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+2. 🎉 Merged PR [#16](https://github.com/Carol42/Disnil/pull/16) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+3. 🎉 Merged PR [#17](https://github.com/Carol42/Disnil/pull/17) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+4. ❗️ Opened issue [#79](https://github.com/bloedboemmel/bloedboemmel/issues/79) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)
+5. ❗️ Opened issue [#5100](https://github.com/JonathanGin52/JonathanGin52/issues/5100) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
