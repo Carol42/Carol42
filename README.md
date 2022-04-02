@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Carol42/Carol42/issues/11) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-2. 🗣 Commented on [#9](https://github.com/Carol42/Carol42/issues/9) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-3. 🎉 Merged PR [#6](https://github.com/Carol42/portfolio/pull/6) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
-4. 🎉 Merged PR [#16](https://github.com/Carol42/Disnil/pull/16) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-5. 🎉 Merged PR [#17](https://github.com/Carol42/Disnil/pull/17) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
+1. 🎉 Merged PR [#7](https://github.com/Carol42/portfolio/pull/7) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+2. 🗣 Commented on [#11](https://github.com/Carol42/Carol42/issues/11) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+3. 🗣 Commented on [#9](https://github.com/Carol42/Carol42/issues/9) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+4. 🎉 Merged PR [#6](https://github.com/Carol42/portfolio/pull/6) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+5. 🎉 Merged PR [#16](https://github.com/Carol42/Disnil/pull/16) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
 <!--END_SECTION:activity-->
 
 </details>
