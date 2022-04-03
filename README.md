@@ -78,7 +78,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6c537c8b319444d31086512a8ad0a11e.jpg" title="Rita Lee - Santa Rita De Sampa"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ea705f39e504f55610118ec1636747fc.jpg" title="Stratovarius - Destiny (Reissue 2016)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ee04aa627455ededebf65aee5c0b87cf.jpg" title="Helloween - Keeper Of The Seven Keys, Pt. I (Expanded Edition)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b78d0e5e74ee4358b397d62a06812d67.png" title="Helloween - Keeper Of The Seven Keys Part I"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/27e97ce8fbea49158017c08d3d68d5bf.png" title="Helloween - Keeper of the Seven Keys, Pt. 1"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/840b4c594d317d14e71c707b010179ff.jpg" title="Helloween - Treasure Chest"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6c537c8b319444d31086512a8ad0a11e.jpg" title="Rita Lee - Santa Rita De Sampa"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/337a1eb0180f4f355eefd3f7d3a21074.jpg" title="Stratovarius - Best Of"> </p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
