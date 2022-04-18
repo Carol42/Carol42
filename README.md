@@ -78,7 +78,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/337a1eb0180f4f355eefd3f7d3a21074.jpg" title="Stratovarius - Best Of"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"> </p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
