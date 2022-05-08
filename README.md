@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Carol42/DiverStudy/pull/18) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)
-2. 🎉 Merged PR [#8](https://github.com/Carol42/portfolio/pull/8) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
-3. 🗣 Commented on [#12](https://github.com/Carol42/Carol42/issues/12) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. 🗣 Commented on [#10](https://github.com/Carol42/Carol42/issues/10) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-5. 🎉 Merged PR [#7](https://github.com/Carol42/portfolio/pull/7) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+1. ❗️ Opened issue [#6138](https://github.com/JonathanGin52/JonathanGin52/issues/6138) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#6137](https://github.com/JonathanGin52/JonathanGin52/issues/6137) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#1358](https://github.com/benjaminsampica/benjaminsampica/issues/1358) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#1357](https://github.com/benjaminsampica/benjaminsampica/issues/1357) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#6136](https://github.com/JonathanGin52/JonathanGin52/issues/6136) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
