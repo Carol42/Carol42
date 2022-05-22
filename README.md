@@ -78,7 +78,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fc061092f1ed402405bc961e4e3a671f.jpg" title="Iron Maiden - Senjutsu"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0b05ebbc6af93b2c88a5c9fa476974ca.jpg" title="Iron Maiden - The Number of the Beast"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9a2df69b76e05f314ed31524d23055e6.jpg" title="Iron Maiden - A Matter of Life and Death"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cf576b6974604ff0bbcb8d55c51a593b.jpg" title="Iron Maiden - En Vivo! (Live At Estadio Nacional, Santiago)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9e0c4e3a089392866e4264c15f252bdd.png" title="Iron Maiden - Piece of Mind"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/674a1d6bb856a31f1896270f35d08c6f.jpg" title="Iron Maiden - Somewhere In Time"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/dff89d734d5289e91a87c3158756cd3a.png" title="Iron Maiden - The Final Frontier"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6f4ab7e118bd6324131fd172d713955a.jpg" title="Iron Maiden - Virtual XI"> </p>
+<p align="center"></p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
