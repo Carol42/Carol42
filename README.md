@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Carol42/Carol42/issues/14) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-2. 🗣 Commented on [#13](https://github.com/Carol42/Carol42/issues/13) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-3. ❗️ Opened issue [#6138](https://github.com/JonathanGin52/JonathanGin52/issues/6138) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#6137](https://github.com/JonathanGin52/JonathanGin52/issues/6137) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#1358](https://github.com/benjaminsampica/benjaminsampica/issues/1358) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. 🗣 Commented on [#15](https://github.com/Carol42/Carol42/issues/15) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+2. 🗣 Commented on [#14](https://github.com/Carol42/Carol42/issues/14) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+3. 🗣 Commented on [#13](https://github.com/Carol42/Carol42/issues/13) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
+4. ❗️ Opened issue [#6138](https://github.com/JonathanGin52/JonathanGin52/issues/6138) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#6137](https://github.com/JonathanGin52/JonathanGin52/issues/6137) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
