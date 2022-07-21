@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Carol42/Carol42/issues/15) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-2. 🗣 Commented on [#14](https://github.com/Carol42/Carol42/issues/14) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-3. 🗣 Commented on [#13](https://github.com/Carol42/Carol42/issues/13) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-4. ❗️ Opened issue [#6138](https://github.com/JonathanGin52/JonathanGin52/issues/6138) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#6137](https://github.com/JonathanGin52/JonathanGin52/issues/6137) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#2](https://github.com/Carol42/rea-pygame/pull/2) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+2. 🗣 Commented on [#2](https://github.com/Carol42/rea-pygame/issues/2) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+3. 🎉 Merged PR [#1](https://github.com/Carol42/rea-pygame/pull/1) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+4. 💪 Opened PR [#1](https://github.com/Carol42/rea-pygame/pull/1) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+5. 🗣 Commented on [#15](https://github.com/Carol42/Carol42/issues/15) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
 <!--END_SECTION:activity-->
 
 </details>
