@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Carol42/Disnil/pull/21) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-2. 🎉 Merged PR [#18](https://github.com/Carol42/Disnil/pull/18) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-3. 🎉 Merged PR [#19](https://github.com/Carol42/Disnil/pull/19) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-4. 🎉 Merged PR [#20](https://github.com/Carol42/Disnil/pull/20) in [Carol42/Disnil](https://github.com/Carol42/Disnil)
-5. 🎉 Merged PR [#9](https://github.com/Carol42/portfolio/pull/9) in [Carol42/portfolio](https://github.com/Carol42/portfolio)
+1. 🎉 Merged PR [#9](https://github.com/Carol42/rea-pygame/pull/9) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+2. 💪 Opened PR [#9](https://github.com/Carol42/rea-pygame/pull/9) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+3. 🎉 Merged PR [#8](https://github.com/Carol42/rea-pygame/pull/8) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+4. 💪 Opened PR [#8](https://github.com/Carol42/rea-pygame/pull/8) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+5. 🎉 Merged PR [#7](https://github.com/Carol42/rea-pygame/pull/7) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
 <!--END_SECTION:activity-->
 
 </details>
