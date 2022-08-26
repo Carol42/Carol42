@@ -78,7 +78,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/27bc087c7c357cb3d9c67a0b911459cb.png" title="Blind Guardian - Battalions of Fear"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e06350f8adff60156462f6be51ad0b7d.jpg" title="Blind Guardian - Follow the Blind"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/81cd614b458f3f93718730b836e5285a.jpg" title="Blind Guardian - Tales from the Twilight World"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2796a8375d3449c0c9eb4207f83182b6.jpg" title="Blind Guardian - The Forgotten Tales"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e1a0d59047f6ebcc79e1a80f900aa5a7.jpg" title="Blind Guardian - A Night at the Opera"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/812059fc3e6e41e58110daead9ee633e.jpg" title="Blind Guardian - Another Stranger Me"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/892f95125a0047e7a2a1260529d8770e.jpg" title="Blind Guardian - Nightfall in Middle Earth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/83d1a299ccdfa83c7b27e303ba611fb0.jpg" title="Blind Guardian - Somewhere Far Beyond"> </p>
+<p align="center"></p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
