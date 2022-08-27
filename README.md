@@ -78,7 +78,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3b4b9e1d7b164290c2918ed1145303fd.png" title="Galneryus - Resurrection"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/be6462ab6afa4e88cee56136602b4398.png" title="Galneryus - Phoenix Rising"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/929f961574d7444ac439f0da85c211ea.png" title="ABBA - Gold: Greatest Hits"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bb04e28d373a5a315d0c3ba37cb97f5a.jpg" title="Galneryus - HUNTING FOR YOUR DREAM (TYPE-A)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d627434e29b13f5f4fb11d15bcb7528d.jpg" title="Galneryus - Kizuna"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1d846a20dc14cc9da8fe259d51a79507.png" title="Galneryus - Ultimate Sacrifice"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e9e7bcc713a5d18057297b316578514a.jpg" title="Galneryus - Alsatia / Cause Disarray"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a525b43b0aa4945c9982043dcb21144.png" title="Galneryus - Beyond the end of despair…"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/aeff724a8ae747f2ac4da9055873c1c7.jpg" title="Galneryus - HUNTING FOR YOUR DREAM (TYPE-B)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4919acbbd77e27ce4b6418ab28d4c1b8.jpg" title="Galneryus - Into the Purgatory"> </p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
