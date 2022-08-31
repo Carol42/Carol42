@@ -2,7 +2,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
+    <a href="https://git.io/typing-svg"><img src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=Meu+nome+%C3%A9+Caroline;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedora+Front-end;Amo+Power+Metal+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
 </div>
 
 <table align="right">
@@ -10,8 +10,6 @@
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-<h2>:woman_technologist: Sobre mim</h2>
-<img alt="Olá mundo! Pronomes: ela/dela; país: Brasil; idade: 20; idiomas: Português, Inglês e Espanhol; metas de ano novo: aprimorar minhas habilidades em programação, aprender francês, conseguir um estágio; meus favoritos: banda de rock: Pink Floyd; banda de metal: Blind Guradian; filmes: The Matrix; anime: Attack on Titan; livros: O Guia do Mochileiro das Galáxias; séries: Black Mirror e Sherlock." width="70%" src="https://github.com/Carol42/Carol42/blob/main/assets/sobre-mim.png">
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
@@ -26,11 +24,6 @@
 <a href="https://linkedin.com/in/carol42">
     <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
 </a>
-<a href="https://t.me/carol_helo">
-    <img alt="link para o meu Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
-</a>
-<a href="https://www.instagram.com/carol_helloo/">
-    <img alt="link para o meu Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:carol42.helo@gmail.com">
     <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
@@ -63,7 +56,7 @@
 
 <h2>:books: Meu Portfólio Pessoal</h2>
 <a href="https://github.com/Carol42/portfolio">
-    <img alt="link para o repositrório do meu portfolio pessoal" src="https://github-readme-stats.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+    <img alt="link para o repositrório do meu portfolio pessoal" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
 </br>
 <a href="https://portfolio-carol42.vercel.app/">
@@ -88,27 +81,27 @@
 <details>
 <summary>Estatísticas gerais</summary>
 <div>
-    <img alt="quantidade de repositórios" src="https://badges.pufler.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
-    <img alt="commits de hoje" src="https://badges.pufler.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
-    <img alt="commits desta semana" src="https://badges.pufler.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
-    <img alt="commits deste mês" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
+    <img alt="quantidade de repositórios" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
+    <img alt="commits de hoje" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+de+hoje">
+    <img alt="commits desta semana" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+desta+semana">
+    <img alt="commits deste mês" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE&label=commits+deste+mes">
 </div>
 
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="minhas estatísticas" />
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true&locale=pt-br" alt="minhas estatísticas" />
     </a>
 </details>
 <details>
-<summary>Contribuições em sequência</summary>
+<summary>Sequência de Contribuições</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="streak stats"/>
+        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="sequência de contribuições"/>
     </a>
 </details>
 <details>
 <summary>Linguagens mais usadas</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br&langs_count=10" alt="gráfico de linguagens mais usadas" />
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Linguagens+mais+usadas*&locale=pt-br&langs_count=10" alt="gráfico de linguagens mais usadas" />
     </a>
     </br>
     <p><b>*Nota:</b> 'Linguagens mais usadas' é somente uma métrica das linguagens utilizadas nos meus códigos públicos e não reflete em experiência ou nível de conhecimento.</p>
@@ -117,7 +110,7 @@
 <details>
 <summary>Gráfico de Contribuições</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="gráfico de atividades no GitHub" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    <img alt="gráfico de atividades no GitHub" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&custom_title=Grafico+de+Contribuicoes&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
@@ -140,7 +133,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="obrigada pela visita" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
+        <img alt="obrigada pela visita" src="https://carol42-readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
     </a>
 </div>
 
