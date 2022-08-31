@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Carol42/rea-pygame/pull/9) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
-2. 💪 Opened PR [#9](https://github.com/Carol42/rea-pygame/pull/9) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
-3. 🎉 Merged PR [#8](https://github.com/Carol42/rea-pygame/pull/8) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
-4. 💪 Opened PR [#8](https://github.com/Carol42/rea-pygame/pull/8) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
-5. 🎉 Merged PR [#7](https://github.com/Carol42/rea-pygame/pull/7) in [Carol42/rea-pygame](https://github.com/Carol42/rea-pygame)
+1. ❗️ Opened issue [#24629](https://github.com/timburgan/timburgan/issues/24629) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#6863](https://github.com/JonathanGin52/JonathanGin52/issues/6863) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#1479](https://github.com/benjaminsampica/benjaminsampica/issues/1479) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#1620](https://github.com/rossjrw/rossjrw/issues/1620) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. ❗️ Opened issue [#1985](https://github.com/marcizhu/marcizhu/issues/1985) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 <!--END_SECTION:activity-->
 
 </details>
