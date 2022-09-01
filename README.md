@@ -71,7 +71,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/546df98105a551801e0f92de7389cc0a.png" title="Pink Floyd - The Wall"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/83d1a299ccdfa83c7b27e303ba611fb0.jpg" title="Blind Guardian - Somewhere Far Beyond"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/892f95125a0047e7a2a1260529d8770e.jpg" title="Blind Guardian - Nightfall in Middle Earth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc9bdb619dec45deb3c8d78e8018e06b.jpg" title="Avantasia - The Metal Opera, Pt. I"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/48e78e4f8336ddecb7529ff63d0b6479.png" title="Helloween - Keeper of the Seven Keys, Pt. II"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/40758db1ca8d4209c2f29c95d0770dc8.jpg" title="Avantasia - The Scarecrow (Bonus Version)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/266b97ac6fdaf73f11ae5ebff7876e59.jpg" title="Blind Guardian - At the Edge of Time"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/dc21fc01cfa169518702f529da5c227c.png" title="Helloween - Master of the Rings"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc061092f1ed402405bc961e4e3a671f.jpg" title="Iron Maiden - Senjutsu"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e1a0d59047f6ebcc79e1a80f900aa5a7.jpg" title="Blind Guardian - A Night at the Opera"> </p>
+<p align="center"></p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
