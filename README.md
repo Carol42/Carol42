@@ -71,7 +71,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3b4b9e1d7b164290c2918ed1145303fd.png" title="Galneryus - Resurrection"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5beb3bcf247f46c8c6d4c4f0fc425450.png" title="Galneryus - Angel of Salvation"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/aeff724a8ae747f2ac4da9055873c1c7.jpg" title="Galneryus - HUNTING FOR YOUR DREAM (TYPE-B)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d627434e29b13f5f4fb11d15bcb7528d.jpg" title="Galneryus - Kizuna"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/be6462ab6afa4e88cee56136602b4398.png" title="Galneryus - Phoenix Rising"> </p>
+<p align="center"></p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
