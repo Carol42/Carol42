@@ -71,7 +71,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6ded35096beb8c2a8ef97dd2055a5f7d.jpg" title="Green Day - Revolution Radio"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5b58bd4668a3fb2ddf9a8ada14b8c42c.jpg" title="Iron Maiden - The Book of Souls"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5b58bd4668a3fb2ddf9a8ada14b8c42c.jpg" title="Iron Maiden - The Book of Souls"> </p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
