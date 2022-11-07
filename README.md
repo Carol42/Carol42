@@ -71,7 +71,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6ded35096beb8c2a8ef97dd2055a5f7d.jpg" title="Green Day - Revolution Radio"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/892f95125a0047e7a2a1260529d8770e.jpg" title="Blind Guardian - Nightfall in Middle Earth"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/27e97ce8fbea49158017c08d3d68d5bf.png" title="Helloween - Keeper of the Seven Keys, Pt. 1"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6086070822cb42405d419305b3c441d3.jpg" title="Avantasia - A Paranormal Evening with the Moonflower Society"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc9bdb619dec45deb3c8d78e8018e06b.jpg" title="Avantasia - The Metal Opera, Pt. I"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b2d9244ada919f178851ba3e71ecfad5.png" title="Iron Maiden - Somewhere In Time"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2b7059c24630eeebbe618116a5f5f0a1.jpg" title="Avantasia - The Metal Opera, Pt. 2"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4ef2daedc6d19e9e2b0f5fdd2b68cdbb.png" title="Avantasia - The Wicked Symphony"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/266b97ac6fdaf73f11ae5ebff7876e59.jpg" title="Blind Guardian - At the Edge of Time"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/410bec1362734804856d26cce2956c7b.jpg" title="Blind Guardian - Memories of a Time to Come"> </p>
+<p align="center"></p>
 
 <p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
 
