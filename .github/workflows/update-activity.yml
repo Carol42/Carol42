@@ -12,6 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Carol42/github-activity-readme@main
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update readme'
+          MAX_LINES: 5
