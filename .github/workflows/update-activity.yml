@@ -15,3 +15,6 @@ jobs:
       - uses: Carol42/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update readme'
+          MAX_LINES: 5
