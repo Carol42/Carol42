@@ -68,6 +68,7 @@
 
 <h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
 
+
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
