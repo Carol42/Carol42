@@ -77,7 +77,7 @@
 <details>
 <summary>Recently played</summary>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true)(https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10)](https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
 
 </details>
 
