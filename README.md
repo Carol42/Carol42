@@ -118,18 +118,7 @@
     </a>
 </div>
 </details>
-<details>
- <summary>Recent activity</summary>
-    
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Carol42/Carol42/issues/22) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-2. ❗️ Opened issue [#24980](https://github.com/timburgan/timburgan/issues/24980) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#2036](https://github.com/marcizhu/marcizhu/issues/2036) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#1632](https://github.com/rossjrw/rossjrw/issues/1632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-<!--END_SECTION:activity-->
 
-</details>
 <details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
