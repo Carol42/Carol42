@@ -5,10 +5,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
+[![lastfm-to-markdown](https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg)](https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml)
+[![Generate Datas](https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg)](https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml)
+
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
+
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -66,8 +70,16 @@
 </a>
 </br></br>
 
-<h2>:notes: Music <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
 
+[![Spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)](https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
+
+<details>
+<summary>Recently played</summary>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true)(https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
+
+</details>
 
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
@@ -125,6 +137,7 @@
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
+<!--
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -136,7 +149,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
-</details>
+</details>-->
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
