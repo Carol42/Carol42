@@ -102,9 +102,9 @@
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
 </details>
-<h2>:octocat: My GitHub Stats</h2>
+
 <details>
-<summary>General Stats</summary>
+<summary>:octocat: My GitHub Stats</summary>
 <div>
     <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
     <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
