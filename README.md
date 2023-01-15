@@ -14,6 +14,7 @@
 </table>
 
 <h2>ℹ️ Project info</h2>
+<div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
@@ -22,6 +23,7 @@
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -111,9 +113,10 @@
     </a>
 </details>
 
-<h2>:octocat: My GitHub Activity & Stats</h2>
+<h2>:octocat: My GitHub Activity</h2>
+<h3>:bar_chart: My GitHub Stats</h3>
 <details>
-<summary>See recent activity</summary>
+<summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
 2. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
@@ -131,8 +134,9 @@
 Last Updated: Sunday, January 15th, 2023, 9:24:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
+
 <details>
-    <summary>See stats</summary>
+    <summary>My GitHub stats</summary>
     <div>
         <a href="https://github.com/Carol42">
             <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
@@ -165,8 +169,11 @@ Last Updated: Sunday, January 15th, 2023, 9:24:12 AM
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
+    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?">here</a>!</p>
 
-
+<h3> :star: My favorite GitHub Repos</h3>
+See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
 
 <!-- <details>
     <summary>Profile visitors</summary>
@@ -180,6 +187,7 @@ Last Updated: Sunday, January 15th, 2023, 9:24:12 AM
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
