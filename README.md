@@ -101,7 +101,13 @@
     </a>
 </details>
 
-<h2>:octocat: My GitHub Stats</h2>
+<h2>:octocat: My GitHub Activity & Stats</h2>
+<details>
+<summary>See recent activity</summary>
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+</details>
 <details>
     <summary>See stats</summary>
     <div>
