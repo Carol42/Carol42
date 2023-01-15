@@ -7,6 +7,7 @@
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=plastic&logoColor=181717">
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
