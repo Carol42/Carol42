@@ -7,29 +7,39 @@
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
 <a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=plastic&logoColor=181717">
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
 
+<h2>ℹ️ Project info</h2>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+
+
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
 </a>
 <a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
 <a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=for-the-badge&label=@Carol_Heloo&color=1DA1F2&logo=twitter" height="22px">
 </a>
 <a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
@@ -111,11 +121,14 @@
 <details>
     <summary>See stats</summary>
     <div>
+        <a href="https://github.com/Carol42">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
         <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
@@ -133,9 +146,14 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
     </a>
+    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+    </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
+
+
 
 <!-- <details>
     <summary>Profile visitors</summary>
