@@ -5,15 +5,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-[![lastfm-to-markdown](https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg)](https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml)
-[![Generate Datas](https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg)](https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml)
+<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
 </table>
-
-
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
@@ -71,14 +69,12 @@
 </br></br>
 
 <h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
-
-[![Spotify](https://spotify-now-playing-carol42.vercel.app/api/spotify)](https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
 
 <details>
-<summary>Recently played</summary>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10)](https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
-
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
 
 <h3>:headphones: Albums I've listened to the most this week</h3>
@@ -86,72 +82,61 @@
 <!-- lastfm -->
 <p align="center"><a href="https://www.last.fm/music/Avantasia/A+Paranormal+Evening+with+the+Moonflower+Society"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6086070822cb42405d419305b3c441d3.jpg" title="Avantasia - A Paranormal Evening with the Moonflower Society"></a> <a href="https://www.last.fm/music/Black+Veil+Brides/The+Phantom+Tomorrow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e7f948f51ed8afc6a643666e83e29a49.jpg" title="Black Veil Brides - The Phantom Tomorrow"></a> <a href="https://www.last.fm/music/Rhapsody/Power+of+the+Dragonflame"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5c399b69dc3db3e2df585d656dfc5289.jpg" title="Rhapsody - Power of the Dragonflame"></a> <a href="https://www.last.fm/music/Blind+Guardian/The+God+Machine"><img src="https://lastfm.freetls.fastly.net/i/u/64s/43e63f642cbe3ff050416bc4970bca0e.png" title="Blind Guardian - The God Machine"></a> <a href="https://www.last.fm/music/Rhapsody/Dawn+of+Victory"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fa97f553c4b4bf96baf2fc8a03e07b51.jpg" title="Rhapsody - Dawn of Victory"></a> <a href="https://www.last.fm/music/Rhapsody/Legendary+Tales"><img src="https://lastfm.freetls.fastly.net/i/u/64s/aa628c2ad4844962966924a66c683636.png" title="Rhapsody - Legendary Tales"></a> <a href="https://www.last.fm/music/Rhapsody/Rain+of+a+Thousand+Flames"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5b476d367e684543c50c687bca4fb5d4.png" title="Rhapsody - Rain of a Thousand Flames"></a> <a href="https://www.last.fm/music/Rhapsody/Symphony+of+Enchanted+Lands"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dd6cfa30fa32bbe13312fb2d34d56f76.jpg" title="Rhapsody - Symphony of Enchanted Lands"></a> <a href="https://www.last.fm/music/Avantasia/Lost+In+Space+(Chapter+1+&+2)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bd0cb6926d084b56956bd6d961f4f684.jpg" title="Avantasia - Lost In Space (Chapter 1 & 2)"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Iron+Maiden/Fear+Of+The+Dark+(2015+Remaster)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f1c51aacd4bab6d1379303db419f2585.jpg" title="Iron Maiden - Fear Of The Dark (2015 Remaster)"></a> <a href="https://www.last.fm/music/Iron+Maiden/The+Number+of+the+Beast+(2015+remaster)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f6c831bb4f7f12bde69d03fc92beae66.png" title="Iron Maiden - The Number of the Beast (2015 remaster)"></a> </p>
 
-<p>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</p>
+</br>
+<sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
-<summary>See quote</summary>
+    <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
 <h2>:zany_face: Joke of the day</h2>
 <details>
-<summary>See joke</summary>
+    <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
 </details>
 
+<h2>:octocat: My GitHub Stats</h2>
 <details>
-<summary>:octocat: My GitHub Stats</summary>
-<div>
-    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-</div>
-<div alig="center">
+    <summary>See stats</summary>
+    <div>
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
-</div>
-</details>
-
-<details>
-<summary>Top languages</summary>
+    </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</details>
-<!--
-<details>
-<summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true"/>
     </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+    </a>
+    </br>
+    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
-<details>
-<summary>Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-</a>
-</details>-->
-<details>
-<summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
-</a>
-</details>
-<details>
-<summary>Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
-</div>
-</details>
+
+<!-- <details>
+    <summary>Profile visitors</summary>
+    <p align="center">:round_pushpin: Profile visitors</p>
+    <div align="center">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    </div>
+</details> -->
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
