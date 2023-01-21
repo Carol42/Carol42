@@ -118,20 +118,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-2. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-3. 🎉 Merged PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
-4. 💪 Opened PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
-5. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-6. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-7. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+1. ⭐ Starred [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite)<br>
+2. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+3. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+4. 🎉 Merged PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
+5. 💪 Opened PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
+6. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+7. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
 8. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-9. 📔 Created new repository [Carol42/adote](https://github.com/Carol42/adote)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+9. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+10. 📔 Created new repository [Carol42/adote](https://github.com/Carol42/adote)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 20th, 2023, 9:27:52 AM
+Last Updated: Friday, January 20th, 2023, 10:09:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
