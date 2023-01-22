@@ -118,20 +118,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite)<br>
-2. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-3. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-4. 🎉 Merged PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
-5. 💪 Opened PR [#1](https://github.com/Carol42/adote/pull/1) in [Carol42/adote](https://github.com/Carol42/adote)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-7. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+1. 📔 Created new repository [Carol42/habits](https://github.com/Carol42/habits)<br>
+2. ⭐ Starred [PokeAPI/sprites](https://github.com/PokeAPI/sprites)<br>
+3. ⬆️ Pushed 1 commit(s) to [Carol42/PinkCord](https://github.com/Carol42/PinkCord)<br>
+4. ⬆️ Pushed 1 commit(s) to [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Carol42/Disnil](https://github.com/Carol42/Disnil)<br>
+6. ⬆️ Pushed 1 commit(s) to [Carol42/cladoquiz](https://github.com/Carol42/cladoquiz)<br>
+7. ⬆️ Pushed 1 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
 8. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-9. ⬆️ Pushed 1 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
-10. 📔 Created new repository [Carol42/adote](https://github.com/Carol42/adote)<br>
+9. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+10. ⭐ Starred [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 21st, 2023, 9:24:05 AM
+Last Updated: Saturday, January 21st, 2023, 10:13:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
