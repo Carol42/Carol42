@@ -170,7 +170,7 @@ Last Updated: Wednesday, January 25th, 2023, 10:09:19 PM
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
     <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
-    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id-Carol42">here</a>!</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
 
 <h3> :star: My favorite GitHub Repos</h3>
 See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
