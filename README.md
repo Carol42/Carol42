@@ -115,6 +115,9 @@
 </details>
 
 <h2>:octocat: My GitHub Activity</h2>
+
+:key: My GPG Public Key: [`28C9C6207278E312`](https://github.com/Carol42.gpg)
+
 <h3>:bar_chart: My GitHub Stats</h3>
 <details>
 <summary>My recent activity</summary>
