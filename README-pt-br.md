@@ -17,10 +17,10 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="Tamanho do repositório no GitHub" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717&label=tamanho+do+repositório" height="22px">
-<img alt="Bifurcações no GitHub" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717&label=Bifurcações" height="22px">
-<img alt="Quantidade de estrelas recebidas no repositório do GitHub" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717&label=estrelas" height="22px">
-<img alt="Último commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge&label=último+commit" height="22px">
+<img alt="Tamanho do repositório no GitHub" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Bifurcações no GitHub" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Quantidade de estrelas recebidas no repositório do GitHub" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Último commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
@@ -99,7 +99,7 @@
 
 <h2>:octocat: Minha atividade no GitHub</h2>
 
-:key: Minha chave GPG: [`28C9C6207278E312`](https://github.com/Carol42.gpg)
+:key: Minha chave GPG: [`39B5693C354521EF`](https://github.com/Carol42.gpg)
 
 <h3>:bar_chart: Minhas estatísticas no GitHub</h3>
 
