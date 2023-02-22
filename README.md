@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Icons](https://github.com/Carol42/Carol42/wiki/Icons) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-2. 📖 Created new wiki page [Translations](https://github.com/Carol42/Carol42/wiki/Translations) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-3. 📖 Created new wiki page [Badges](https://github.com/Carol42/Carol42/wiki/Badges) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-4. 📖 Created new wiki page [Typing-SVG-animation](https://github.com/Carol42/Carol42/wiki/Typing-SVG-animation) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-5. ⬆️ Pushed 41 commit(s) to [Carol42/readme-typing-svg](https://github.com/Carol42/readme-typing-svg)<br>
-6. 📖 Created new wiki page [Home](https://github.com/Carol42/Carol42/wiki/Home) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-7. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-9. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
+1. 📖 Created new wiki page [GitHub-Activity-Cards](https://github.com/Carol42/Carol42/wiki/GitHub-Activity-Cards) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+2. ⭐ Starred [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)<br>
+3. 📖 Created new wiki page [Icons](https://github.com/Carol42/Carol42/wiki/Icons) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+4. 📖 Created new wiki page [Translations](https://github.com/Carol42/Carol42/wiki/Translations) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+5. 📖 Created new wiki page [Badges](https://github.com/Carol42/Carol42/wiki/Badges) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+6. 📖 Created new wiki page [Typing-SVG-animation](https://github.com/Carol42/Carol42/wiki/Typing-SVG-animation) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+7. ⬆️ Pushed 41 commit(s) to [Carol42/readme-typing-svg](https://github.com/Carol42/readme-typing-svg)<br>
+8. 📖 Created new wiki page [Home](https://github.com/Carol42/Carol42/wiki/Home) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+9. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+10. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 10:11:10 PM
+Last Updated: Wednesday, February 22nd, 2023, 9:28:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
