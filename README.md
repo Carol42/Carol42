@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devfullcycle/imersao12](https://github.com/devfullcycle/imersao12)<br>
-2. ⭐ Starred [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
-4. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-5. ⬆️ Pushed 2 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-7. ⬆️ Pushed 1 commit(s) to [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-8. ⬆️ Pushed 2 commit(s) to [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)<br>
-9. 🎉 Merged PR [#49](https://github.com/Carol42/DiverStudy/pull/49) in [Carol42/DiverStudy](https://github.com/Carol42/DiverStudy)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/habits](https://github.com/Carol42/habits)<br>
+1. 📖 Created new wiki page [Icons](https://github.com/Carol42/Carol42/wiki/Icons) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+2. 📖 Created new wiki page [Translations](https://github.com/Carol42/Carol42/wiki/Translations) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+3. 📖 Created new wiki page [Badges](https://github.com/Carol42/Carol42/wiki/Badges) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+4. 📖 Created new wiki page [Typing-SVG-animation](https://github.com/Carol42/Carol42/wiki/Typing-SVG-animation) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+5. ⬆️ Pushed 41 commit(s) to [Carol42/readme-typing-svg](https://github.com/Carol42/readme-typing-svg)<br>
+6. 📖 Created new wiki page [Home](https://github.com/Carol42/Carol42/wiki/Home) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+7. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+8. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+9. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
+10. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 9:27:56 AM
+Last Updated: Tuesday, February 21st, 2023, 10:11:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
