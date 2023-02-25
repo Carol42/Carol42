@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/lang-box](https://github.com/Carol42/lang-box)<br>
-2. 📔 Created new repository [Carol42/lang-box](https://github.com/Carol42/lang-box)<br>
-3. 🔱 Forked [Carol42/music-box](https://github.com/Carol42/music-box) from [jacc/music-box](https://github.com/jacc/music-box)<br>
-4. ⭐ Starred [alfg/overwatch-api](https://github.com/alfg/overwatch-api)<br>
-5. ⬆️ Pushed 1 commit(s) to [Carol42/productive-box](https://github.com/Carol42/productive-box)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/productive-box](https://github.com/Carol42/productive-box)<br>
-7. 🔱 Forked [Carol42/productive-box](https://github.com/Carol42/productive-box) from [maxam2017/productive-box](https://github.com/maxam2017/productive-box)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/productive-box](https://github.com/Carol42/productive-box)<br>
-9. ⬆️ Pushed 1 commit(s) to [Carol42/productive-box](https://github.com/Carol42/productive-box)<br>
-10. 🔱 Forked [Carol42/productive-box](https://github.com/Carol42/productive-box) from [maxam2017/productive-box](https://github.com/maxam2017/productive-box)<br>
+1. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)<br>
+2. ⭐ Starred [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers)<br>
+3. ⭐ Starred [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets)<br>
+4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)<br>
+5. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)<br>
+6. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+7. ⭐ Starred [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)<br>
+8. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+9. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
+10. ⭐ Starred [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 24th, 2023, 10:12:47 PM
+Last Updated: Saturday, February 25th, 2023, 9:25:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
