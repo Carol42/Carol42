@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
-2. 📔 Created new repository [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/hitokoto-box](https://github.com/Carol42/hitokoto-box)<br>
-4. ⬆️ Pushed 1 commit(s) to [Carol42/waka-box](https://github.com/Carol42/waka-box)<br>
-5. 🔱 Forked [Carol42/waka-box](https://github.com/Carol42/waka-box) from [matchai/waka-box](https://github.com/matchai/waka-box)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/waka-box-go](https://github.com/Carol42/waka-box-go)<br>
-7. 🔱 Forked [Carol42/waka-box-go](https://github.com/Carol42/waka-box-go) from [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go)<br>
+1. ⬆️ Pushed 1 commit(s) to [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
+2. 📔 Created new repository [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
+3. ⭐ Starred [agucova/awesome-esp](https://github.com/agucova/awesome-esp)<br>
+4. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
+5. ⭐ Starred [arduino/Arduino](https://github.com/arduino/Arduino)<br>
+6. ⬆️ Pushed 1 commit(s) to [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
+7. 📔 Created new repository [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
 8. ⬆️ Pushed 1 commit(s) to [Carol42/hitokoto-box](https://github.com/Carol42/hitokoto-box)<br>
-9. 🔱 Forked [Carol42/hitokoto-box](https://github.com/Carol42/hitokoto-box) from [greenhandatsjtu/hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box)<br>
-10. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+9. ⬆️ Pushed 1 commit(s) to [Carol42/waka-box](https://github.com/Carol42/waka-box)<br>
+10. 🔱 Forked [Carol42/waka-box](https://github.com/Carol42/waka-box) from [matchai/waka-box](https://github.com/matchai/waka-box)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 26th, 2023, 9:26:44 AM
+Last Updated: Sunday, February 26th, 2023, 10:13:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
