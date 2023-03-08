@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text)<br>
-2. ⭐ Starred [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
-4. 📔 Created new repository [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
-5. ⭐ Starred [agucova/awesome-esp](https://github.com/agucova/awesome-esp)<br>
-6. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
-7. ⭐ Starred [arduino/Arduino](https://github.com/arduino/Arduino)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
-9. 📔 Created new repository [Carol42/recent-activity-box](https://github.com/Carol42/recent-activity-box)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/hitokoto-box](https://github.com/Carol42/hitokoto-box)<br>
+1. ⭐ Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
+2. ⭐ Starred [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic)<br>
+3. ⭐ Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)<br>
+4. ⭐ Starred [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text)<br>
+5. ⭐ Starred [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07)<br>
+6. ⬆️ Pushed 1 commit(s) to [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
+7. 📔 Created new repository [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
+8. ⭐ Starred [agucova/awesome-esp](https://github.com/agucova/awesome-esp)<br>
+9. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)<br>
+10. ⭐ Starred [arduino/Arduino](https://github.com/arduino/Arduino)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 7th, 2023, 10:17:23 PM
+Last Updated: Wednesday, March 8th, 2023, 9:28:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
