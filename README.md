@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
-2. ⬆️ Pushed 2 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
-3. 🎉 Merged PR [#22](https://github.com/Carol42/portfolio/pull/22) in [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
-4. ⭐ Starred [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk)<br>
-5. ⭐ Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
-6. ⭐ Starred [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic)<br>
-7. ⭐ Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)<br>
-8. ⭐ Starred [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text)<br>
-9. ⭐ Starred [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/projetos-sistemas-embarcados](https://github.com/Carol42/projetos-sistemas-embarcados)<br>
+1. 📔 Created new repository [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+2. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
+3. ⬆️ Pushed 2 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
+4. 🎉 Merged PR [#22](https://github.com/Carol42/portfolio/pull/22) in [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
+5. ⭐ Starred [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk)<br>
+6. ⭐ Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
+7. ⭐ Starred [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic)<br>
+8. ⭐ Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)<br>
+9. ⭐ Starred [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text)<br>
+10. ⭐ Starred [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 30th, 2023, 9:27:13 AM
+Last Updated: Thursday, March 30th, 2023, 10:08:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
