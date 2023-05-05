@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+1. ⬆️ Pushed 2 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 2. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 3. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 4. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-5. ⭐ Starred [DEAP/deap](https://github.com/DEAP/deap)<br>
-6. 📔 Created new repository [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-7. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
-8. ⬆️ Pushed 2 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
-9. 🎉 Merged PR [#22](https://github.com/Carol42/portfolio/pull/22) in [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
-10. ⭐ Starred [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+6. ⭐ Starred [DEAP/deap](https://github.com/DEAP/deap)<br>
+7. 📔 Created new repository [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+8. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
+9. ⬆️ Pushed 2 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
+10. 🎉 Merged PR [#22](https://github.com/Carol42/portfolio/pull/22) in [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 10:00:17 PM
+Last Updated: Friday, May 5th, 2023, 9:23:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
