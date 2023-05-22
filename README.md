@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-2. ⬆️ Pushed 2 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+1. ⭐ Starred [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite)<br>
+2. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+3. ⬆️ Pushed 2 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 4. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 5. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
 6. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-7. ⭐ Starred [DEAP/deap](https://github.com/DEAP/deap)<br>
-8. 📔 Created new repository [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-9. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
-10. ⬆️ Pushed 2 commit(s) to [Carol42/portfolio](https://github.com/Carol42/portfolio)<br>
+7. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+8. ⭐ Starred [DEAP/deap](https://github.com/DEAP/deap)<br>
+9. 📔 Created new repository [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+10. ⭐ Starred [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 21st, 2023, 10:09:27 PM
+Last Updated: Monday, May 22nd, 2023, 9:24:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
