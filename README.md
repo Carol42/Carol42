@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo)<br>
-2. 💬 Commented on [#27](https://github.com/Carol42/Carol42/issues/27#issuecomment-1565726387) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/yolo](https://github.com/Carol42/yolo)<br>
-4. 🔱 Forked [Carol42/yolo](https://github.com/Carol42/yolo) from [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo)<br>
-5. ⭐ Starred [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-7. ⬆️ Pushed 2 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-9. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/OOP-Projects](https://github.com/Carol42/OOP-Projects)<br>
+1. ⬆️ Pushed 2 commit(s) to [Carol42/adote](https://github.com/Carol42/adote)<br>
+2. 🎉 Merged PR [#3](https://github.com/Carol42/adote/pull/3) in [Carol42/adote](https://github.com/Carol42/adote)<br>
+3. ❌ Closed PR [#3](https://github.com/Carol42/adote/pull/3) in [Carol42/adote](https://github.com/Carol42/adote)<br>
+4. ❌ Closed PR [#2](https://github.com/Carol42/adote/pull/2) in [Carol42/adote](https://github.com/Carol42/adote)<br>
+5. ⭐ Starred [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware)<br>
+6. ❗️ Opened issue [#11917](https://github.com/JonathanGin52/JonathanGin52/issues/11917) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+7. ❗️ Opened issue [#137](https://github.com/bloedboemmel/bloedboemmel/issues/137) in [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel)<br>
+8. ❗️ Opened issue [#3048](https://github.com/marcizhu/marcizhu/issues/3048) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)<br>
+9. ❗️ Opened issue [#2373](https://github.com/rossjrw/rossjrw/issues/2373) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)<br>
+10. ❗️ Opened issue [#1929](https://github.com/benjaminsampica/benjaminsampica/issues/1929) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 27th, 2023, 10:14:03 PM
+Last Updated: Sunday, May 28th, 2023, 9:22:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
