@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [_Footer](https://github.com/Carol42/hello-world/wiki/_Footer) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-2. 📖 Created new wiki page [_Sidebar](https://github.com/Carol42/hello-world/wiki/_Sidebar) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+1. ❗️ Opened issue [#3](https://github.com/Carol42/hello-world/issues/3) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+2. 📖 Created new wiki page [_Footer](https://github.com/Carol42/hello-world/wiki/_Footer) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
 3. 📖 Created new wiki page [_Sidebar](https://github.com/Carol42/hello-world/wiki/_Sidebar) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-4. 📖 Created new wiki page [Hello-World!](https://github.com/Carol42/hello-world/wiki/Hello-World%21) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-5. 📖 Created new wiki page [Home](https://github.com/Carol42/hello-world/wiki/Home) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-6. 📖 Created new wiki page [Hello,-World!](https://github.com/Carol42/hello-world/wiki/Hello%2C-World%21) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-7. ❗️ Opened issue [#1](https://github.com/Carol42/hello-world/issues/1) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-8. ❗️ Opened issue [#135](https://github.com/congthanhng/congthanhng/issues/135) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
-9. 💬 Commented on [#864](https://github.com/ParanoidUser/yolo/pull/864#discussion_r1213939453) in [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo)<br>
-10. 💬 Commented on [#21](https://github.com/Carol42/Carol42/issues/21#issuecomment-1571106043) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+4. 📖 Created new wiki page [_Sidebar](https://github.com/Carol42/hello-world/wiki/_Sidebar) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+5. 📖 Created new wiki page [Hello-World!](https://github.com/Carol42/hello-world/wiki/Hello-World%21) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+6. 📖 Created new wiki page [Home](https://github.com/Carol42/hello-world/wiki/Home) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+7. 📖 Created new wiki page [Hello,-World!](https://github.com/Carol42/hello-world/wiki/Hello%2C-World%21) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+8. ❗️ Opened issue [#1](https://github.com/Carol42/hello-world/issues/1) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+9. ❗️ Opened issue [#135](https://github.com/congthanhng/congthanhng/issues/135) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
+10. 💬 Commented on [#864](https://github.com/ParanoidUser/yolo/pull/864#discussion_r1213939453) in [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 3rd, 2023, 10:27:36 PM
+Last Updated: Sunday, June 4th, 2023, 9:23:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
