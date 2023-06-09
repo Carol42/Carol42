@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#12091](https://github.com/JonathanGin52/JonathanGin52/issues/12091) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
-2. ❗️ Opened issue [#12069](https://github.com/JonathanGin52/JonathanGin52/issues/12069) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
-3. ❗️ Opened issue [#12067](https://github.com/JonathanGin52/JonathanGin52/issues/12067) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
-4. ❗️ Opened issue [#12066](https://github.com/JonathanGin52/JonathanGin52/issues/12066) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
-5. ❗️ Opened issue [#12064](https://github.com/JonathanGin52/JonathanGin52/issues/12064) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
-6. ❗️ Opened issue [#139](https://github.com/congthanhng/congthanhng/issues/139) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
-7. ❗️ Opened issue [#137](https://github.com/congthanhng/congthanhng/issues/137) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
-8. ❗️ Opened issue [#3](https://github.com/Carol42/hello-world/issues/3) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-9. 📖 Created new wiki page [_Footer](https://github.com/Carol42/hello-world/wiki/_Footer) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
-10. 📖 Created new wiki page [_Sidebar](https://github.com/Carol42/hello-world/wiki/_Sidebar) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
+1. ❗️ Opened issue [#12110](https://github.com/JonathanGin52/JonathanGin52/issues/12110) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+2. ❗️ Opened issue [#141](https://github.com/congthanhng/congthanhng/issues/141) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
+3. ❗️ Opened issue [#12091](https://github.com/JonathanGin52/JonathanGin52/issues/12091) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+4. ❗️ Opened issue [#12069](https://github.com/JonathanGin52/JonathanGin52/issues/12069) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+5. ❗️ Opened issue [#12067](https://github.com/JonathanGin52/JonathanGin52/issues/12067) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+6. ❗️ Opened issue [#12066](https://github.com/JonathanGin52/JonathanGin52/issues/12066) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+7. ❗️ Opened issue [#12064](https://github.com/JonathanGin52/JonathanGin52/issues/12064) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)<br>
+8. ❗️ Opened issue [#139](https://github.com/congthanhng/congthanhng/issues/139) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
+9. ❗️ Opened issue [#137](https://github.com/congthanhng/congthanhng/issues/137) in [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng)<br>
+10. ❗️ Opened issue [#3](https://github.com/Carol42/hello-world/issues/3) in [Carol42/hello-world](https://github.com/Carol42/hello-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 8th, 2023, 9:24:27 AM
+Last Updated: Thursday, June 8th, 2023, 10:18:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
