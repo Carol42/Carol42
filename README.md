@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon"><img src="https://lastfm.freetls.fastly.net/i/u/64s/403e2e059d7289cda2056760c2d55550.jpg" title="Pink Floyd - The Dark Side of the Moon"></a> <a href="https://www.last.fm/music/Powerwolf/Missa+Cantorem+II"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5a575c7992b67a0bcc34feab624dfcb1.jpg" title="Powerwolf - Missa Cantorem II"></a> </p>
+<p align="center"></p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
