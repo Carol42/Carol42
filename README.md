@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Wind+Rose/Warfront"><img src="https://lastfm.freetls.fastly.net/i/u/64s/40938eecde4f9c9f7d346c5a338b2ddd.jpg" title="Wind Rose - Warfront"></a> <a href="https://www.last.fm/music/Wind+Rose/Wintersaga"><img src="https://lastfm.freetls.fastly.net/i/u/64s/760632c26cec7d7dc5c84655251aba8b.png" title="Wind Rose - Wintersaga"></a> <a href="https://www.last.fm/music/Wind+Rose/Stonehymn"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ed3f649deacb74ac14bed62362756490.jpg" title="Wind Rose - Stonehymn"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
