@@ -134,11 +134,10 @@
 6. 📔 Created new repository [Carol42/calculadora-circuitos-diodos](https://github.com/Carol42/calculadora-circuitos-diodos)<br>
 7. ⭐ Starred [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery)<br>
 8. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)<br>
-9. ⭐ Starred [shantnu/Enron-Data-Set](https://github.com/shantnu/Enron-Data-Set)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 5th, 2023, 10:00:52 PM
+Last Updated: Wednesday, December 6th, 2023, 9:25:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
