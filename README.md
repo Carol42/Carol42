@@ -133,12 +133,10 @@
 5. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
 6. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
 7. 📔 Created new repository [Carol42/calculadora-circuitos-diodos](https://github.com/Carol42/calculadora-circuitos-diodos)<br>
-8. ⭐ Starred [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery)<br>
-9. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 17th, 2023, 10:01:26 PM
+Last Updated: Monday, December 18th, 2023, 9:25:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
