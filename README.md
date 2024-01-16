@@ -34,11 +34,11 @@
 <a href="https://codepen.io/Carol42">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-<a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=for-the-badge&label=@Carol_Heloo&color=1DA1F2&logo=twitter" height="22px">
-</a>
 <a href="https://linkedin.com/in/carol42">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+<a href="https://twitter.com/carol42helo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
 </a>
 </a>
 <a href="mailto:carol42.helo@gmail.com">
