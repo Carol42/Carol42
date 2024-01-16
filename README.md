@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pouca+Vogal/Pouca+Vogal+(Ao+Vivo)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7d0813c2e34a4f0bcfb6f67d86e4ae27.jpg" title="Pouca Vogal - Pouca Vogal (Ao Vivo)"></a> <a href="https://www.last.fm/music/Pouca+Vogal/Gessinger+%252B+Leindecker"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eefd6569086f4af9a6fe0f0db7995707.jpg" title="Pouca Vogal - Gessinger + Leindecker"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Night+at+the+Opera+(Remastered+2017)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4fe5ac0c8b1261fb947042da97ea05c.png" title="Blind Guardian - A Night at the Opera (Remastered 2017)"></a> <a href="https://www.last.fm/music/Blind+Guardian/Beyond+the+Red+Mirror"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61262bdd006ff40263bc723dabd53289.png" title="Blind Guardian - Beyond the Red Mirror"></a> <a href="https://www.last.fm/music/Avantasia/The+Scarecrow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/35c70cdff2f74b9a877dfea2ea8314e7.png" title="Avantasia - The Scarecrow"></a> <a href="https://www.last.fm/music/Edguy/Theater+of+Salvation"><img src="https://lastfm.freetls.fastly.net/i/u/64s/013de9bead4e939c1a9d8350dd943205.jpg" title="Edguy - Theater of Salvation"></a> <a href="https://www.last.fm/music/Masterplan/Masterplan"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4b3b12f77bb4e67ab720872eba62109.jpg" title="Masterplan - Masterplan"></a> <a href="https://www.last.fm/music/Rhapsody/Symphony+of+Enchanted+Lands"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b4edbfb5c5b461ba490183c38cc6981.png" title="Rhapsody - Symphony of Enchanted Lands"></a> <a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Blind+Guardian/At+the+Edge+of+Time"><img src="https://lastfm.freetls.fastly.net/i/u/64s/266b97ac6fdaf73f11ae5ebff7876e59.jpg" title="Blind Guardian - At the Edge of Time"></a> <a href="https://www.last.fm/music/Blind+Guardian/Memories+of+a+Time+to+Come"><img src="https://lastfm.freetls.fastly.net/i/u/64s/410bec1362734804856d26cce2956c7b.jpg" title="Blind Guardian - Memories of a Time to Come"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Pouca+Vogal/Pouca+Vogal+(Ao+Vivo)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7d0813c2e34a4f0bcfb6f67d86e4ae27.jpg" title="Pouca Vogal - Pouca Vogal (Ao Vivo)"></a> <a href="https://www.last.fm/music/Pouca+Vogal/Gessinger+%252B+Leindecker"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eefd6569086f4af9a6fe0f0db7995707.jpg" title="Pouca Vogal - Gessinger + Leindecker"></a> <a href="https://www.last.fm/music/Blind+Guardian/Beyond+the+Red+Mirror"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61262bdd006ff40263bc723dabd53289.png" title="Blind Guardian - Beyond the Red Mirror"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Night+at+the+Opera+(Remastered+2017)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4fe5ac0c8b1261fb947042da97ea05c.png" title="Blind Guardian - A Night at the Opera (Remastered 2017)"></a> <a href="https://www.last.fm/music/Avantasia/The+Scarecrow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/35c70cdff2f74b9a877dfea2ea8314e7.png" title="Avantasia - The Scarecrow"></a> <a href="https://www.last.fm/music/Edguy/Theater+of+Salvation"><img src="https://lastfm.freetls.fastly.net/i/u/64s/013de9bead4e939c1a9d8350dd943205.jpg" title="Edguy - Theater of Salvation"></a> <a href="https://www.last.fm/music/Masterplan/Masterplan"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4b3b12f77bb4e67ab720872eba62109.jpg" title="Masterplan - Masterplan"></a> <a href="https://www.last.fm/music/Rhapsody/Symphony+of+Enchanted+Lands"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b4edbfb5c5b461ba490183c38cc6981.png" title="Rhapsody - Symphony of Enchanted Lands"></a> <a href="https://www.last.fm/music/Avantasia/Ghostlights"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f27bbac3df62a3bcd1e7768ca8a6dcc6.png" title="Avantasia - Ghostlights"></a> <a href="https://www.last.fm/music/Blind+Guardian/At+the+Edge+of+Time"><img src="https://lastfm.freetls.fastly.net/i/u/64s/266b97ac6fdaf73f11ae5ebff7876e59.jpg" title="Blind Guardian - At the Edge of Time"></a> <a href="https://www.last.fm/music/Blind+Guardian/Memories+of+a+Time+to+Come"><img src="https://lastfm.freetls.fastly.net/i/u/64s/410bec1362734804856d26cce2956c7b.jpg" title="Blind Guardian - Memories of a Time to Come"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
@@ -126,20 +126,20 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
+1. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
+2. ⭐ Starred [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
 3. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
 4. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-5. 💬 Commented on [#33](https://github.com/Carol42/Carol42/issues/33#issuecomment-1853945725) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-6. ⬆️ Pushed 2 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
-7. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+5. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
+6. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
+7. 💬 Commented on [#33](https://github.com/Carol42/Carol42/issues/33#issuecomment-1853945725) in [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
+8. ⬆️ Pushed 2 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
 9. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
 10. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 15th, 2024, 9:25:54 AM
+Last Updated: Tuesday, January 16th, 2024, 9:25:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
