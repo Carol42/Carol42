@@ -182,10 +182,7 @@ See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of th
     </div>
 </details> -->
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-
 <img src="https://raw.githubusercontent.com/Ninja1375/Carol42/output/github-snake-light.svg" alt="github-snake" width="800"/>
-
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
