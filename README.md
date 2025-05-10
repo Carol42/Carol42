@@ -126,11 +126,10 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 10:22:57 PM
+Last Updated: Saturday, May 10th, 2025, 9:32:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
