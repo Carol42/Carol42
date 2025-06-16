@@ -126,12 +126,10 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SciCatProject/frontend](https://github.com/SciCatProject/frontend)<br>
-2. ⭐ Starred [IOB-Muenster/TEclass2](https://github.com/IOB-Muenster/TEclass2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 15th, 2025, 10:41:05 PM
+Last Updated: Monday, June 16th, 2025, 9:39:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
