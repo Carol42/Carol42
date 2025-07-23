@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Ladybaby/One+Year+Best+~2015-2016~"><img src="https://lastfm.freetls.fastly.net/i/u/64s/422fce3b5769d1e36bd25b55074912ce.jpg" title="Ladybaby - One Year Best ~2015-2016~"></a> <a href="https://www.last.fm/music/BABYMETAL/Kon!+Kon!+(feat.+Bloodywood)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/00cfadf84368f9d6d6d406fdcce9eccb.png" title="BABYMETAL - Kon! Kon! (feat. Bloodywood)"></a> <a href="https://www.last.fm/music/Ladybaby/Nippon+Manjyuu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/add1b625641404129df26209e19bd621.jpg" title="Ladybaby - Nippon Manjyuu"></a> </p>
+<p align="center"></p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
