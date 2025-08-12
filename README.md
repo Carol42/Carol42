@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Switchfoot/The+Beautiful+Letdown+(Our+Version)+%5BDeluxe+Edition%5D"><img src="https://lastfm.freetls.fastly.net/i/u/64s/35c677262f36b35a86804c799384a2ba.jpg" title="Switchfoot - The Beautiful Letdown (Our Version) [Deluxe Edition]"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Switchfoot/The+Beautiful+Letdown+(Our+Version)+%5BDeluxe+Edition%5D"><img src="https://lastfm.freetls.fastly.net/i/u/64s/35c677262f36b35a86804c799384a2ba.jpg" title="Switchfoot - The Beautiful Letdown (Our Version) [Deluxe Edition]"></a> <a href="https://www.last.fm/music/Gloria+Groove/A+Queda"><img src="https://lastfm.freetls.fastly.net/i/u/64s/72fdeeb27a7ae2a78b1ae974ddf474fa.jpg" title="Gloria Groove - A Queda"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
