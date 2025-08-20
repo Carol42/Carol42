@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/PEDRO+SAMPAIO/CHAMA+MEU+NOME"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7d4c4bc27f13f0ab73bcb82181f21aa8.jpg" title="PEDRO SAMPAIO - CHAMA MEU NOME"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Gloria+Groove/LADY+LESTE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc9e6a264eb2a731d82cd6cf2bb2f69b.jpg" title="Gloria Groove - LADY LESTE"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
