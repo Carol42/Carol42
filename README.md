@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Gloria+Groove/LADY+LESTE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc9e6a264eb2a731d82cd6cf2bb2f69b.jpg" title="Gloria Groove - LADY LESTE"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Gloria+Groove/LADY+LESTE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cc9e6a264eb2a731d82cd6cf2bb2f69b.jpg" title="Gloria Groove - LADY LESTE"></a> <a href="https://www.last.fm/music/Gloria+Groove/Suplicar"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fc2e9631b9bf91df87e04edf3233a202.jpg" title="Gloria Groove - Suplicar"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
