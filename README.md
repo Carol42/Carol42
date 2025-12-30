@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Apocalyptica/Live+Or+Die+(feat.+Joakim+Brod%C3%A9n)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/be4bbafdcdfe77e137ff857c031dd3ea.jpg" title="Apocalyptica - Live Or Die (feat. Joakim Brodén)"></a> <a href="https://www.last.fm/music/Helloween/Keeper+of+the+Seven+Keys,+Pt.+2+(2024+Remaster)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1cde59020919159dfb719e6fd18d7e81.jpg" title="Helloween - Keeper of the Seven Keys, Pt. 2 (2024 Remaster)"></a> <a href="https://www.last.fm/music/Powerwolf/The+Sacrament+of+Sin"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ab9151c759d7e50113020995866aa95c.jpg" title="Powerwolf - The Sacrament of Sin"></a> <a href="https://www.last.fm/music/Sabaton/The+War+to+End+All+Wars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7119e3b8a2f4e8cbc03b3ea5fa101d16.jpg" title="Sabaton - The War to End All Wars"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Apocalyptica/Live+Or+Die+(feat.+Joakim+Brod%C3%A9n)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/be4bbafdcdfe77e137ff857c031dd3ea.jpg" title="Apocalyptica - Live Or Die (feat. Joakim Brodén)"></a> <a href="https://www.last.fm/music/Sabaton/The+War+to+End+All+Wars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7119e3b8a2f4e8cbc03b3ea5fa101d16.jpg" title="Sabaton - The War to End All Wars"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
