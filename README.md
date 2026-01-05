@@ -98,7 +98,7 @@
 <h3>:headphones: Albums I've listened to the most this week</h3>
 
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Edguy/Theater+of+Salvation"><img src="https://lastfm.freetls.fastly.net/i/u/64s/013de9bead4e939c1a9d8350dd943205.jpg" title="Edguy - Theater of Salvation"></a> </p>
 
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
