@@ -126,11 +126,12 @@
 <details>
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware)<br>
+1. ⭐ Starred [ljsenger/latex-2023](https://github.com/ljsenger/latex-2023)<br>
+2. ⭐ Starred [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 23rd, 2026, 10:23:28 AM
+Last Updated: Sunday, May 24th, 2026, 12:34:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
