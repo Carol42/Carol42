@@ -127,11 +127,10 @@
 <summary>My recent activity</summary>
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ljsenger/latex-2023](https://github.com/ljsenger/latex-2023)<br>
-2. ⭐ Starred [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 15th, 2026, 2:12:54 PM
+Last Updated: Tuesday, June 16th, 2026, 1:04:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
